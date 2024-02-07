@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning javascript, CSS, HTML, Bootstrap, Laravel
 - 💞️ I’m looking to collaborate on programming Community as much as I can.
-- 📫 How to reach me: please send me an email on "osama9boo@gmail.com" ...
+- 📫 How to reach me: please send me an email on "osamaalbaida.eng@gmail.com" ...
 
 <!---
 Osama95prog/Osama95prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
